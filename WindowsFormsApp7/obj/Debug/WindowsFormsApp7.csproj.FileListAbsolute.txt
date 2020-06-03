@@ -1,0 +1,10 @@
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\lexaz\OneDrive\Desktop\SortirovkiVnutr-master\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
